@@ -1,0 +1,7 @@
+sounddevice
+numpy
+transformers
+torch
+torchaudio
+PyQt6
+librosa
